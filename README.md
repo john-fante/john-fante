@@ -37,6 +37,6 @@ Here are some ideas to get you started:
 
 <br>
 
-### React, JavScript 
+### React, JavaScript 
 <li> <a href ="https://github.com/john-fante/gamma-hadron-separation-xgb-lgbm-svm"> Gamma/Hadron Separation w/XGBoost, LightGBM, SVM </a> </li>
 
