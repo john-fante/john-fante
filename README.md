@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 ## Some of the my projects
 
 ### Machine Learning
-<li> <a href ="https://github.com/john-fante/gamma-hadron-separation-xgb-lgbm-svm"> Gamma/Hadron Separation w/XGBoost, LightGBM, SVM </a> </li>
-<li> <a href ="https://github.com/john-fante/svm-xgboost-lightgbm-ensemble-method-w-noised-dataset"> SVM, XGB, LGBM, Ensemble Method w/Noised-Dataset </a> </li>
+<li> <a href ="https://github.com/john-fante/gamma-hadron-separation-xgb-lgbm-svm"> Gamma/Hadron Separation w/XGBoost, LightGBM, SVM</a> (ROC AUC Score: 0.89) </li>
+<li> <a href ="https://github.com/john-fante/svm-xgboost-lightgbm-ensemble-method-w-noised-dataset">Bears vs Pandas SVM, XGB, LGBM, Ensemble Method w/Noised-Dataset </a>  (ACC: 96.75 %) </li>
 <li> <a href ="https://github.com/john-fante/simple-new-sample-generation-from-mnist-w-kde"> Simple New Sample Generation from MNIST w/KDE</a> </li>
 <li> <a href ="https://github.com/john-fante/simple-new-sample-generation-fashionmnist-w-kde"> Simple New Sample Generation FashionMNIST w/KDE</a> </li>
 
@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 
 ### Deep Learning
-<li> <a href ="https://github.com/john-fante/normal_heartbeat_vs_myocardial_infarction_classification"> Normal heartbeat/Myocardial Infarction Classification </a> </li>
+<li> <a href ="https://github.com/john-fante/normal_heartbeat_vs_myocardial_infarction_classification"> Normal heartbeat/Myocardial Infarction Classification </a>(ROC AUC Score: 0.842) </li>
 
 <br>
 
