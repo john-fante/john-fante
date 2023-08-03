@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 <li> <a href ="https://github.com/john-fante/normal_heartbeat_vs_myocardial_infarction_classification"> Normal heartbeat/Myocardial Infarction Classification </a>(ROC AUC Score: 0.842) </li>
 <li> <a href ="https://github.com/john-fante/brain-tumor-mri-classification"> Brain Tumor Classification (Normal, Glioma, Meningioma, Pituitary) </a>(Test ACC: 86.275 %) </li>
 
-<li> <a href ="."> Earthquake Events Classification (Mojor Event/Non-Major Event) </a>(Test ACC: 64 %) </li>
+<li> <a href ="https://github.com/john-fante/earthquake_events_classification"> Earthquake Events Classification (Mojor Event/Non-Major Event) </a>(Test ACC: 64 %) </li>
 <br>
 
 ### Algorithmic Trading
