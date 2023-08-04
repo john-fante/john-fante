@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <li> <a href ="https://github.com/john-fante/svm-xgboost-lightgbm-ensemble-method-w-noised-dataset">Bears vs Pandas SVM, XGB, LGBM, Ensemble Method w/Noised-Dataset </a>  (ACC: 96.75 %) </li>
 <li> <a href ="https://github.com/john-fante/simple-new-sample-generation-from-mnist-w-kde"> Simple New Sample Generation from MNIST w/KDE</a> </li>
 <li> <a href ="https://github.com/john-fante/simple-new-sample-generation-fashionmnist-w-kde"> Simple New Sample Generation FashionMNIST w/KDE</a> </li>
-<li> <a href ="https://github.com/john-fante/hassanat-distance-implementation-knn"> Minkowski vs Hassanat Distance Implementation w/KNN </a> </li>
+<li> <a href ="https://github.com/john-fante/hassanat-distance-implementation-knn"> Minkowski vs Hassanat Distance Metric Implementation w/KNN </a> </li>
 
 
 <br>
