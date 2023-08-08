@@ -20,10 +20,10 @@ Here are some ideas to get you started:
 ### Machine Learning
 <li> <a href ="https://github.com/john-fante/gamma-hadron-separation-xgb-lgbm-svm"> Gamma/Hadron Separation w/XGBoost, LightGBM, SVM</a> (ROC AUC Score: 0.89) </li>
 <li> <a href ="https://github.com/john-fante/svm-xgboost-lightgbm-ensemble-method-w-noised-dataset">Bears vs Pandas SVM, XGB, LGBM, Ensemble Method w/Noised-Dataset </a>  (ACC: 96.75 %) </li>
+<li> <a href ="https://github.com/john-fante/water-quality-classification-with-CatBoost"> Groundwater Quality Classification w/CatBoost </a> </li>
 <li> <a href ="https://github.com/john-fante/simple-new-sample-generation-from-mnist-w-kde"> Simple New Sample Generation from MNIST w/KDE</a> </li>
 <li> <a href ="https://github.com/john-fante/simple-new-sample-generation-fashionmnist-w-kde"> Simple New Sample Generation FashionMNIST w/KDE</a> </li>
 <li> <a href ="https://github.com/john-fante/hassanat-distance-implementation-knn"> Minkowski vs Hassanat Distance Metric Implementation w/KNN </a> </li>
-<li> <a href ="https://github.com/john-fante/water-quality-classification-with-CatBoost"> Groundwater Quality Classification w/CatBoost </a> </li>
 
 
 <br>
