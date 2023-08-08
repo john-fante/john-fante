@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <li> <a href ="https://github.com/john-fante/simple-new-sample-generation-from-mnist-w-kde"> Simple New Sample Generation from MNIST w/KDE</a> </li>
 <li> <a href ="https://github.com/john-fante/simple-new-sample-generation-fashionmnist-w-kde"> Simple New Sample Generation FashionMNIST w/KDE</a> </li>
 <li> <a href ="https://github.com/john-fante/hassanat-distance-implementation-knn"> Minkowski vs Hassanat Distance Metric Implementation w/KNN </a> </li>
-<li> <a href ="https://github.com/john-fante/water-quality-classification-with-CatBoost"> Water Quality Classification w/CatBoost </a> </li>
+<li> <a href ="https://github.com/john-fante/water-quality-classification-with-CatBoost"> Groundwater Quality Classification w/CatBoost </a> </li>
 
 
 <br>
