@@ -37,8 +37,9 @@ Here are some ideas to get you started:
 <li> <a href ="https://github.com/john-fante/brain-tumor-mri-classification"> Brain Tumor Classification (Normal, Glioma, Meningioma, Pituitary) </a>(Test ACC: 86.275 %) </li>
 
 <li> <a href ="https://github.com/john-fante/earthquake_events_classification"> Earthquake Events Classification (Mojor Event/Non-Major Event) </a>(Test ACC: 64 %) </li>
-<br>
 <li> <a href ="https://github.com/john-fante/ford-motor-data-anomaly-detection-w-aes">Ford Motor Data Anomaly Detection w/AutoEncoder </a>  (Test ACC: 66.14 %) </li>
+<br>
+
 
 
 ### Algorithmic Trading
