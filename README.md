@@ -23,7 +23,6 @@ Here are some ideas to get you started:
 <li> <a href ="https://github.com/john-fante/water-quality-classification-with-CatBoost"> Groundwater Quality Classification w/CatBoost </a> </li>
 
 <li> <a href ="https://github.com/john-fante/prediction-biological-activity-catboost">Prediction Biological Activity w/CatBoost Implementation </a>  (MCC: 0.825) </li>
-<li> <a href ="https://github.com/john-fante/ford-motor-data-anomaly-detection-w-aes">Ford Motor Data Anomaly Detection w/AutoEncoder </a>  (ACC: 66.14 %) </li>
 
 <li> <a href ="https://github.com/john-fante/simple-new-sample-generation-from-mnist-w-kde"> Simple New Sample Generation from MNIST w/KDE</a> </li>
 <li> <a href ="https://github.com/john-fante/simple-new-sample-generation-fashionmnist-w-kde"> Simple New Sample Generation FashionMNIST w/KDE</a> </li>
@@ -39,6 +38,8 @@ Here are some ideas to get you started:
 
 <li> <a href ="https://github.com/john-fante/earthquake_events_classification"> Earthquake Events Classification (Mojor Event/Non-Major Event) </a>(Test ACC: 64 %) </li>
 <br>
+<li> <a href ="https://github.com/john-fante/ford-motor-data-anomaly-detection-w-aes">Ford Motor Data Anomaly Detection w/AutoEncoder </a>  (Test ACC: 66.14 %) </li>
+
 
 ### Algorithmic Trading
 <li> <a href ="https://github.com/john-fante/Getting-Binance-current-coins-prices-volumes"> Getting Binance Current Coins Prices Volumes </a> </li>
