@@ -23,12 +23,6 @@ Here are some ideas to get you started:
 <li> <a href ="https://github.com/john-fante/water-quality-classification-with-CatBoost"> Groundwater Quality Classification w/CatBoost </a> </li>
 
 <li> <a href ="https://github.com/john-fante/prediction-biological-activity-catboost">Prediction Biological Activity w/CatBoost Implementation </a>  (MCC: 0.825) </li>
-
-<li> <a href ="https://github.com/john-fante/simple-new-sample-generation-from-mnist-w-kde"> Simple New Sample Generation from MNIST w/KDE</a> </li>
-<li> <a href ="https://github.com/john-fante/simple-new-sample-generation-fashionmnist-w-kde"> Simple New Sample Generation FashionMNIST w/KDE</a> </li>
-<li> <a href ="https://github.com/john-fante/hassanat-distance-implementation-knn"> Minkowski vs Hassanat Distance Metric Implementation w/KNN </a> </li>
-
-
 <br>
 
 
@@ -39,6 +33,18 @@ Here are some ideas to get you started:
 <li> <a href ="https://github.com/john-fante/earthquake_events_classification"> Earthquake Events Classification (Mojor Event/Non-Major Event) </a>(Test ACC: 64 %) </li>
 <li> <a href ="https://github.com/john-fante/ford-motor-data-anomaly-detection-w-aes">Ford Motor Data Anomaly Detection w/AutoEncoder </a>  (Test ACC: 66.14 %) </li>
 <br>
+
+
+
+### Machine Learning Theory
+
+<li> <a href ="https://github.com/john-fante/simple-new-sample-generation-from-mnist-w-kde"> Simple New Sample Generation from MNIST w/KDE</a> </li>
+<li> <a href ="https://github.com/john-fante/simple-new-sample-generation-fashionmnist-w-kde"> Simple New Sample Generation FashionMNIST w/KDE</a> </li>
+<li> <a href ="https://github.com/john-fante/hassanat-distance-implementation-knn"> Minkowski vs Hassanat Distance Metric Implementation w/KNN </a> </li>
+<li> <a href ="https://github.com/john-fante/entropy-experiments-on-gaussian-dist"> Proof of the Entropy of The Gaussian Distribution Implementation </a> </li>
+
+<br>
+
 
 
 
