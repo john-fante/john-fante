@@ -23,6 +23,9 @@ Here are some ideas to get you started:
 <li> <a href ="https://github.com/john-fante/water-quality-classification-with-CatBoost"> Groundwater Quality Classification w/CatBoost </a> </li>
 
 <li> <a href ="https://github.com/john-fante/prediction-biological-activity-catboost">Prediction Biological Activity w/CatBoost Implementation </a>  (MCC: 0.825) </li>
+
+<li> <a href ="https://github.com/john-fante/prediction-biological-activity-catboost">Classification Activity of Inhibitors of EphA4 Receptor Antagonists (AID 689) w/CatBoost </a>  (MCC: 0.782) </li>
+
 <br>
 
 
