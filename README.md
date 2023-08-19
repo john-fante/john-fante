@@ -28,6 +28,8 @@ Here are some ideas to get you started:
 
 <li> <a href ="https://github.com/john-fante/alive-dead-diabetic-outcome-prediction-catboost">Alive/Dead Diabetic Outcome Prediction with CatBoostClassifier w/CatBoost </a>  (ROC AUC Score: 0.77) </li>
 
+<li> <a href ="https://github.com/john-fante/pistachio-classification-catboost/tree/main">Pistachio Classification w/CatBoost </a>  (ROC AUC Score: 0.9) </li>
+
 <br>
 
 
