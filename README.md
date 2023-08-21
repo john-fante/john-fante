@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 <li> <a href ="https://github.com/john-fante/svm-xgboost-lightgbm-ensemble-method-w-noised-dataset">Bears vs Pandas SVM, XGB, LGBM, Ensemble Method w/Noised-Dataset </a>  (ACC: 96.75 %) </li>
 <li> <a href ="https://github.com/john-fante/water-quality-classification-with-CatBoost"> Groundwater Quality Classification w/CatBoost </a> </li>
 
-<li> <a href ="https://github.com/john-fante/prediction-biological-activity-catboost">Prediction Biological Activity w/CatBoost Implementation </a>  (MCC: 0.825) </li>
+<li> <a href ="https://github.com/john-fante/prediction-biological-activity-catboost"> (QSAR) Prediction Biological Activity w/CatBoost Implementation </a>  (MCC: 0.825) </li>
 
-<li> <a href ="https://github.com/john-fante/clf-aid-689-EphA4-receptor-inhibitors">Classification Activity of Inhibitors of EphA4 Receptor Antagonists (AID 689) w/CatBoost </a>  (MCC: 0.782) </li>
+<li> <a href ="https://github.com/john-fante/clf-aid-689-EphA4-receptor-inhibitors"> (QSAR) Classification Activity of Inhibitors of EphA4 Receptor Antagonists (AID 689) w/CatBoost </a>  (MCC: 0.782) </li>
 
 <li> <a href ="https://github.com/john-fante/alive-dead-diabetic-outcome-prediction-catboost">Alive/Dead Diabetic Outcome Prediction with CatBoostClassifier w/CatBoost </a>  (ROC AUC Score: 0.77) </li>
 
