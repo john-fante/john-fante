@@ -69,6 +69,18 @@ Here are some ideas to get you started:
 
 <br>
 
+### Competitions
+<br>
+
+|                                                    	| My degree 	| Type of Competition     	| My solution algorithm  	|
+|----------------------------------------------------	|-----------	|-------------------------	|------------------------	|
+| Forecasting Mini-Course Sales                      	| 253/1172  	| Time Series Forecasting 	| Deep Learning          	|
+| Predict CO2 Emissions in Rwanda                    	| 256/1440  	| Regression              	| CatBoost, LightGBM     	|
+| Petals to the Metal - Flower Classification on TPU 	| 42/123    	| Classification          	| Ensemble Deep Learning 	|
+
+
+<br>
+
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
