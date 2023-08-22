@@ -72,11 +72,11 @@ Here are some ideas to get you started:
 ### Competitions
 <br>
 
-|                                                    	| My degree 	| Type of Competition     	| My solution algorithm  	|
-|----------------------------------------------------	|-----------	|-------------------------	|------------------------	|
-| Forecasting Mini-Course Sales                      	| 253/1172  	| Time Series Forecasting 	| Deep Learning          	|
-| Predict CO2 Emissions in Rwanda                    	| 256/1440  	| Regression              	| CatBoost, LightGBM     	|
-| Petals to the Metal - Flower Classification on TPU 	| 42/123    	| Classification          	| Ensemble Deep Learning 	|
+|                                                    	| My degree 	| Type of Competition     	| My solution algorithm  	| Link                                                        	|
+|----------------------------------------------------	|-----------	|-------------------------	|------------------------	|-------------------------------------------------------------	|
+| Forecasting Mini-Course Sales                      	| 253/1172  	| Time Series Forecasting 	| Deep Learning          	| https://www.kaggle.com/competitions/playground-series-s3e19 	|
+| Predict CO2 Emissions in Rwanda                    	| 256/1440  	| Regression              	| CatBoost, LightGBM     	| https://www.kaggle.com/competitions/playground-series-s3e20 	|
+| Petals to the Metal - Flower Classification on TPU 	| 40/118    	| Classification          	| Ensemble Deep Learning 	| https://www.kaggle.com/competitions/tpu-getting-started     	|
 
 
 <br>
