@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 <li> <a href ="https://github.com/john-fante/ford-motor-data-anomaly-detection-w-aes">Ford Motor Data Anomaly Detection w/AutoEncoder </a>  (Test ACC: 66.14 %) </li>
 <li> <a href ="https://github.com/john-fante/distributed_deep_learning_example">The Fashion Mnist Distributed DL Example (Mirrored Strategy) </a>  (Test ACC: 88.350 %) </li>
 <li> <a href ="https://github.com/john-fante/higgs-background-process-classification-CNN-TPU"> Higgs/Background Process Classification w/CNN using TPU </a>  (Test AUC Score: 0.833) </li>
-
+<li> <a href ="https://github.com/john-fante/pneumonia-detection-with-ensemble-deep-learning"> Pneumonia Detection w/Ensemble DL </a>  (Test AUC Score: 0.91) </li>
 
 <br>
 
