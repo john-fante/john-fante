@@ -46,6 +46,7 @@ Here are some ideas to get you started:
 <li> <a href ="https://github.com/john-fante/hieroglyph-classification-densenet"> Hieroglyph Multiclass Classification DenseNet </a>  (F1 Score: 0.85) </li>
 
 <li> <a href ="https://github.com/john-fante/brain-tumor-segmentation-tpu"> Brain tumor/anomaly segmentation with U-net using TPU </a> </li>
+<li> <a href ="https://github.com/john-fante/down-syndrome-detection"> Down Syndrome Detection w/CNN </a>  (Test AUC Score: 0.87) </li>
 
 
 <br>
