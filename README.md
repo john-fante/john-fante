@@ -47,6 +47,7 @@ Here are some ideas to get you started:
 
 <li> <a href ="https://github.com/john-fante/brain-tumor-segmentation-tpu"> Brain tumor/anomaly segmentation with U-net using TPU </a> </li>
 <li> <a href ="https://github.com/john-fante/down-syndrome-detection"> Down Syndrome Detection w/CNN </a>  (Test AUC Score: 0.87) </li>
+<li> <a href ="https://github.com/john-fante/eye-conjunctiva-segmentation"> Eye Conjunctiva Segmentation with U-Net using TPU </a>  (Dice : 0.91, Jaccard : 0.82) </li>
 
 
 <br>
