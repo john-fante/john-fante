@@ -43,11 +43,14 @@ Here are some ideas to get you started:
 <li> <a href ="https://github.com/john-fante/higgs-background-process-classification-CNN-TPU"> Higgs/Background Process Classification w/CNN using TPU </a>  (Test AUC Score: 0.833) </li>
 <li> <a href ="https://github.com/john-fante/pneumonia-detection-with-ensemble-deep-learning"> Pneumonia Detection w/Ensemble DL </a>  (Test AUC Score: 0.91) </li>
 <li> <a href ="https://github.com/john-fante/brain-tissue-segmentation-tpu"> Brain tissue segmentation with U-net using TPU </a>  (Val Dice Coef: 0.88) </li>
-<li> <a href ="https://github.com/john-fante/hieroglyph-classification-densenet"> Hieroglyph Multiclass Classification DenseNet </a>  (F1 Score: 0.85) </li>
-
 <li> <a href ="https://github.com/john-fante/brain-tumor-segmentation-tpu"> Brain tumor/anomaly segmentation with U-net using TPU </a> </li>
 <li> <a href ="https://github.com/john-fante/down-syndrome-detection"> Down Syndrome Detection w/CNN </a>  (Test AUC Score: 0.87) </li>
 <li> <a href ="https://github.com/john-fante/eye-conjunctiva-segmentation"> Eye Conjunctiva Segmentation with U-Net using TPU </a>  (Dice : 0.91, Jaccard : 0.82) </li>
+
+<li> <a href ="https://github.com/john-fante/hieroglyph-classification-densenet"> Hieroglyph Multiclass Classification DenseNet </a>  (F1 Score: 0.85) </li>
+
+
+<li> <a href ="https://github.com/john-fante/iris-segmentation-unet"> Iris Segmentation U-net w/TPU </a> (Dice Coef: 0.94, Jaccard Index : 0.88) </li>
 
 
 <br>
