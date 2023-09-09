@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 <li> <a href ="https://github.com/john-fante/hieroglyph-classification-densenet"> Hieroglyph Multiclass Classification DenseNet </a>  (F1 Score: 0.85) </li>
 
 
-<li> <a href ="https://github.com/john-fante/iris-segmentation-unet"> Iris Segmentation U-net w/TPU </a> (Dice Coef: 0.94, Jaccard Index : 0.88) </li>
+<li> <a href ="https://github.com/john-fante/iris-segmentation-unet"> Iris Segmentation U-net w/TPU </a> (Dice : 0.94, Jaccard : 0.88) </li>
 
 
 <br>
