@@ -53,6 +53,8 @@ Here are some ideas to get you started:
 
 <li> <a href ="https://github.com/john-fante/iris-segmentation-unet"> Iris Segmentation U-net w/TPU </a> (Dice : 0.94, Jaccard : 0.88) </li>
 
+<li> <a href ="https://github.com/john-fante/car-model-and-color-classification"> Car Model and Color Multiclass Classification </a>  (F1 Score: 0.74) </li>
+
 
 <br>
 
