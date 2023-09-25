@@ -36,12 +36,12 @@ Here are some ideas to get you started:
 
 ### Deep Learning
 <li> <a href ="https://github.com/john-fante/normal_heartbeat_vs_myocardial_infarction_classification"> Normal heartbeat/Myocardial Infarction Classification </a>(ROC AUC Score: 0.842) </li>
-<li> <a href ="https://github.com/john-fante/brain-tumor-mri-classification"> Brain Tumor Classification (Normal, Glioma, Meningioma, Pituitary) </a>(Test ACC: 86.275 %) </li>
+<li> <a href ="https://github.com/john-fante/brain-tumor-mri-classification"> Brain Tumor Classification (Normal, Glioma, Meningioma, Pituitary) </a>(Test ACC: 86.27 %) </li>
 
 <li> <a href ="https://github.com/john-fante/earthquake_events_classification"> Earthquake Events Classification (Mojor Event/Non-Major Event) </a>(Test ACC: 64 %) </li>
 <li> <a href ="https://github.com/john-fante/ford-motor-data-anomaly-detection-w-aes">Ford Motor Data Anomaly Detection w/AutoEncoder </a>  (Test ACC: 66.14 %) </li>
-<li> <a href ="https://github.com/john-fante/distributed_deep_learning_example">The Fashion Mnist Distributed DL Example (Mirrored Strategy) </a>  (Test ACC: 88.350 %) </li>
-<li> <a href ="https://github.com/john-fante/higgs-background-process-classification-CNN-TPU"> Higgs/Background Process Classification w/CNN using TPU </a>  (Test AUC Score: 0.833) </li>
+<li> <a href ="https://github.com/john-fante/distributed_deep_learning_example">The Fashion Mnist Distributed DL Example (Mirrored Strategy) </a>  (Test ACC: 88.35 %) </li>
+<li> <a href ="https://github.com/john-fante/higgs-background-process-classification-CNN-TPU"> Higgs/Background Process Classification w/CNN using TPU </a>  (AUC Score: 0.83) </li>
 <li> <a href ="https://github.com/john-fante/pneumonia-detection-with-ensemble-deep-learning"> Pneumonia Detection w/Ensemble DL </a>  (Test AUC Score: 0.91) </li>
 <li> <a href ="https://github.com/john-fante/brain-tissue-segmentation-tpu"> Brain tissue segmentation with U-net using TPU </a>  (Val Dice Coef: 0.88) </li>
 <li> <a href ="https://github.com/john-fante/brain-tumor-segmentation-tpu"> Brain tumor/anomaly segmentation with U-net using TPU </a> </li>
@@ -55,6 +55,7 @@ Here are some ideas to get you started:
 
 <li> <a href ="https://github.com/john-fante/car-model-and-color-classification"> Car Model and Color Multiclass Classification </a>  (F1 Score: 0.74) </li>
 <li> <a href ="https://github.com/john-fante/retina-vessel-segmentation">Retina Vessel Segmentation U-net w/TPU </a> (Dice : 0.75) </li>
+<li> <a href ="https://github.com/john-fante/zipper-defect-classification"> Zipper Defect Classification </a> (AUC Score: 0.98) </li>
 
 
 
