@@ -57,7 +57,9 @@ Here are some ideas to get you started:
 <li> <a href ="https://github.com/john-fante/retina-vessel-segmentation">Retina Vessel Segmentation U-net w/TPU </a> (Dice : 0.75) </li>
 <li> <a href ="https://github.com/john-fante/zipper-defect-classification"> Zipper Defect Classification </a> (AUC Score: 0.98) </li>
 <li> <a href ="https://github.com/john-fante/crack-segmentation">Asphalt Pavement Crack Segmentation U-Net </a> </li>
+<li> <a href ="https://github.com/john-fante/damaged-lamp-detection"> Damaged Lamp Detection w/detectron2 (Faster R-CNN) </a></li>
 
+<li> <a href ="https://github.com/john-fante/plate-detection"> Plate Detection w/detectron2 </a> (mAP@75: 89.19) </li>
 
 <br>
 
