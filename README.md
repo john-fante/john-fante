@@ -60,9 +60,8 @@ Here are some ideas to get you started:
 <li> <a href ="https://github.com/john-fante/damaged-lamp-detection"> Damaged Lamp Detection w/detectron2 (Faster R-CNN) </a></li>
 <li> <a href ="https://github.com/john-fante/plate-detection"> Plate Detection w/detectron2 </a> (mAP@75: 89.19) </li>
 <li> <a href ="https://github.com/john-fante/mri-sequence-classification"> MRI Sequence (T1, T2, T1 C+) Classification w/Custom CNN </a></li>
-
+<li> <a href ="https://github.com/john-fante/dental-xrays-classification"> Dental X-Rays Classification w/TPU </a>  (F1 Score: 0.72) </li>
 <br>
-
 
 
 
