@@ -31,6 +31,9 @@ Here are some ideas to get you started:
 <li> <a href ="https://github.com/john-fante/pistachio-classification-catboost">Pistachio Classification w/CatBoost </a>  (ROC AUC Score: 0.9) </li>
 
 <li> <a href ="https://github.com/john-fante/CHEMBL286-classification-ensemble-model"> (QSAR) Renin Activity (ChEMBL286) Classification w/Ensemble Model(CNN + CatBoost) </a>  (F1-Score: 0.84) </li>
+
+<li> <a href ="https://github.com/john-fante/rain-prediction">Rain Prediction w/CatBoost and Conformal Prediction </a>  F1-Score:0.84 </li>
+
 <br>
 
 
@@ -49,7 +52,7 @@ Here are some ideas to get you started:
 <li> <a href ="https://github.com/john-fante/eye-conjunctiva-segmentation"> Eye Conjunctiva Segmentation with U-Net using TPU </a>  (Dice : 0.91, Jaccard : 0.82) </li>
 
 <li> <a href ="https://github.com/john-fante/hieroglyph-classification-densenet"> Hieroglyph Multiclass Classification DenseNet </a>  (F1 Score: 0.85) </li>
-
+<li> <a href ="https://github.com/john-fante/particle-segmentation-deeplabv3-#particle-segmentation-custom-deeplabv3"> Particle Segmentation Custom DeepLabv3+ </a> (Dice : 0.93, Jaccard : 0.88) </li>
 
 <li> <a href ="https://github.com/john-fante/iris-segmentation-unet"> Iris Segmentation U-net w/TPU </a> (Dice : 0.94, Jaccard : 0.88) </li>
 
@@ -63,6 +66,7 @@ Here are some ideas to get you started:
 <li> <a href ="https://github.com/john-fante/dental-xrays-classification"> Dental X-Rays Classification w/TPU </a>  (F1 Score: 0.72) </li>
 <li> <a href ="https://github.com/john-fante/segment-medical-instrument#segment-medical-instrument-wcustom-deeplabv3"> Segmentation Medical Instrument w/Custom DeepLabv3+
  </a> (Dice : 0.86) </li>
+<li> <a href ="https://github.com/john-fante/blood-cell-classification-covmixer#blood-cells-classification-wcustom-convmixer-f1-score-098"> Blood Cells Classification w/Custom ConvMixer based CNN </a>  (F1 Score: 0.98 </li>
 
 
 <br>
@@ -79,7 +83,6 @@ Here are some ideas to get you started:
 <li> <a href ="https://github.com/john-fante/entropy-experiments-on-gaussian-dist"> Proof of the Entropy of The Gaussian Distribution Implementation </a> </li>
 
 <br>
-
 
 
 
