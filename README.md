@@ -66,7 +66,7 @@ Here are some ideas to get you started:
 <li> <a href ="https://github.com/john-fante/dental-xrays-classification"> Dental X-Rays Classification w/TPU </a>  (F1 Score: 0.72) </li>
 <li> <a href ="https://github.com/john-fante/segment-medical-instrument#segment-medical-instrument-wcustom-deeplabv3"> Segmentation Medical Instrument w/Custom DeepLabv3+
  </a> (Dice : 0.86) </li>
-<li> <a href ="https://github.com/john-fante/blood-cell-classification-covmixer#blood-cells-classification-wcustom-convmixer-f1-score-098"> Blood Cells Classification w/Custom ConvMixer based CNN </a>  (F1 Score: 0.98 </li>
+<li> <a href ="https://github.com/john-fante/blood-cell-classification-covmixer#blood-cells-classification-wcustom-convmixer-f1-score-098"> Blood Cells Classification w/Custom ConvMixer based CNN </a>  (F1 Score: 0.98 </li> <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='' src='https://img.shields.io/badge/Medical_AI-100000?style=for-the-badge&logo=&logoColor=FFFFFF&labelColor=FFFFFF&color=2ecc71'/></a>z
 
 
 <br>
