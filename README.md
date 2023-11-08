@@ -37,6 +37,14 @@ Here are some ideas to get you started:
 <br>
 
 
+### Meta Learning
+<li> <a href ="https://github.com/john-fante/leaf-disease-detection-meta-learning"> Leaf Disease Detection w/Meta-Learning (ViT, PCA, SVM) </a>(F1 Score: 0.92) </li>
+<li> <a href ="https://github.com/john-fante/flower-detection-meta-learning"> Flower Detection w/Meta Learning(ViT, CatBoost, SHAP) </a>(F1 Score: 0.96) </li>
+<li> <a href ="https://github.com/john-fante/skin-cancer-detect-meta-learning"> Skin Cancer Detection w/Meta Learning (ConvMixer, CatBoost, SHAP) </a> </li>
+
+
+<br>
+
 ### Deep Learning
 <li> <a href ="https://github.com/john-fante/normal_heartbeat_vs_myocardial_infarction_classification"> Normal heartbeat/Myocardial Infarction Classification </a>(ROC AUC Score: 0.842) </li>
 <li> <a href ="https://github.com/john-fante/brain-tumor-mri-classification"> Brain Tumor Classification (Normal, Glioma, Meningioma, Pituitary) </a>(Test ACC: 86.27 %) </li>
@@ -64,17 +72,16 @@ Here are some ideas to get you started:
 <li> <a href ="https://github.com/john-fante/plate-detection"> Plate Detection w/detectron2 </a> (mAP@75: 89.19) </li>
 <li> <a href ="https://github.com/john-fante/mri-sequence-classification"> MRI Sequence (T1, T2, T1 C+) Classification w/Custom CNN </a></li>
 <li> <a href ="https://github.com/john-fante/dental-xrays-classification"> Dental X-Rays Classification w/TPU </a>  (F1 Score: 0.72) </li>
-<li> <a href ="https://github.com/john-fante/segment-medical-instrument#segment-medical-instrument-wcustom-deeplabv3"> Segmentation Medical Instrument w/Custom DeepLabv3+
+<li> <a href ="https://github.com/john-fante/segment-medical-instrument"> Segmentation Medical Instrument w/Custom DeepLabv3+
  </a> (Dice : 0.86) </li>
-<li> <a href ="https://github.com/john-fante/blood-cell-classification-covmixer#blood-cells-classification-wcustom-convmixer-f1-score-098"> Blood Cells Classification w/Custom ConvMixer based CNN </a>  (F1 Score: 0.98 </li> <a target="_blank"><img alt='' src='https://img.shields.io/badge/Medical_AI-100000?style=for-the-badge&logo=&logoColor=FFFFFF&labelColor=FFFFFF&color=2ecc71'/></a>
+<li> <a href ="https://github.com/john-fante/blood-cell-classification-covmixer"> Blood Cells Classification w/Custom ConvMixer based CNN </a>  (F1 Score: 0.98) </li>
+
+<li> <a href ="https://github.com/john-fante/30-plants-classification"> 30 Plants Detection w/Custom ConvMixer based CNN </a>  (F1 Score: 0.77) </li>
+<li> <a href ="https://github.com/john-fante/bladder-tissue-classification"> Bladder Tissue Classification w/ViT </a>  (F1 Score: 0.82) </li>
+
 
 
 <br>
-
-### Meta Learning
-
-
-
 
 
 
@@ -94,10 +101,7 @@ Here are some ideas to get you started:
 
 <br>
 
-### React, JavaScript 
-<li> <a href ="https://github.com/john-fante/gamma-hadron-separation-xgb-lgbm-svm"> Gamma/Hadron Separation w/XGBoost, LightGBM, SVM </a> </li>
 
-<br>
 
 ### Competitions
 <br>
