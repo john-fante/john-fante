@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 
 ### 2. Deep Learning Projects
-## 2.1 Classification
+#### 2.1 Classification
 
 
 <li> <a href ="https://github.com/john-fante/normal_heartbeat_vs_myocardial_infarction_classification"> Normal heartbeat/Myocardial Infarction Classification </a>(ROC AUC Score: 0.842) </li>
