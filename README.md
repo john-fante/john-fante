@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## Some of my projects
 
-### Machine Learning Projects
+### 1. Machine Learning Projects
 <li> <a href ="https://github.com/john-fante/my-machine-learning-projects/tree/main/gamma-hadron-separation-xgb-lgbm-svm-main"> Gamma/Hadron Separation w/XGBoost, LightGBM, SVM</a> (ROC AUC Score: 0.89) </li>
 <li> <a href ="https://github.com/john-fante/my-machine-learning-projects/tree/main/svm-xgboost-lightgbm-ensemble-method-w-noised-dataset-main">Bears vs Pandas SVM, XGB, LGBM, Ensemble Method w/Noised-Dataset </a>  (ACC: 96.75 %) </li>
 <li> <a href ="https://github.com/john-fante/my-machine-learning-projects/tree/main/water-quality-classification-with-CatBoost-main"> Groundwater Quality Classification w/CatBoost </a> </li>
@@ -37,7 +37,9 @@ Here are some ideas to get you started:
 <br>
 
 
-### Deep Learning Projects
+### 2. Deep Learning Projects
+## 2.1 Classification
+
 
 <li> <a href ="https://github.com/john-fante/normal_heartbeat_vs_myocardial_infarction_classification"> Normal heartbeat/Myocardial Infarction Classification </a>(ROC AUC Score: 0.842) </li>
 <li> <a href ="https://github.com/john-fante/brain-tumor-mri-classification"> Brain Tumor Classification (Normal, Glioma, Meningioma, Pituitary) </a>(Test ACC: 86.27 %) </li>
