@@ -37,23 +37,8 @@ Here are some ideas to get you started:
 <br>
 
 
-### Hybrid Model (Deep Learning and Machine Learning) Projects
+### Deep Learning Projects
 
-<li> <a href ="https://github.com/john-fante/CHEMBL286-classification-ensemble-model"> (QSAR) Renin Activity (ChEMBL286) Classification w/Ensemble Model(CNN + CatBoost) </a>  (F1-Score: 0.84) </li>
-
-<br>
-
-
-
-### Meta Learning
-<li> <a href ="https://github.com/john-fante/leaf-disease-detection-meta-learning"> Leaf Disease Detection w/Meta-Learning (ViT, PCA, SVM) </a>(F1 Score: 0.92) </li>
-<li> <a href ="https://github.com/john-fante/flower-detection-meta-learning"> Flower Detection w/Meta Learning(ViT, CatBoost, SHAP) </a>(F1 Score: 0.96) </li>
-<li> <a href ="https://github.com/john-fante/skin-cancer-detect-meta-learning"> Skin Cancer Detection w/Meta Learning (ConvMixer, CatBoost, SHAP) </a> </li>
-
-
-<br>
-
-### Deep Learning
 <li> <a href ="https://github.com/john-fante/normal_heartbeat_vs_myocardial_infarction_classification"> Normal heartbeat/Myocardial Infarction Classification </a>(ROC AUC Score: 0.842) </li>
 <li> <a href ="https://github.com/john-fante/brain-tumor-mri-classification"> Brain Tumor Classification (Normal, Glioma, Meningioma, Pituitary) </a>(Test ACC: 86.27 %) </li>
 
@@ -91,6 +76,17 @@ Here are some ideas to get you started:
 
 <br>
 
+
+### Hybrid Model (Deep Learning and Machine Learning) Projects
+
+<li> <a href ="https://github.com/john-fante/CHEMBL286-classification-ensemble-model"> (QSAR) Renin Activity (ChEMBL286) Classification w/Ensemble Model(CNN + CatBoost) </a>  (F1-Score: 0.84) </li>
+
+<li> <a href ="https://github.com/john-fante/leaf-disease-detection-meta-learning"> Leaf Disease Detection w/Meta-Learning (ViT, PCA, SVM) </a>(F1 Score: 0.92) </li>
+<li> <a href ="https://github.com/john-fante/flower-detection-meta-learning"> Flower Detection w/Meta Learning(ViT, CatBoost, SHAP) </a>(F1 Score: 0.96) </li>
+<li> <a href ="https://github.com/john-fante/skin-cancer-detect-meta-learning"> Skin Cancer Detection w/Meta Learning (ConvMixer, CatBoost, SHAP) </a> </li>
+
+
+<br>
 
 
 ### Machine Learning Theory
