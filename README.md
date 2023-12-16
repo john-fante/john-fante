@@ -17,9 +17,6 @@ Here are some ideas to get you started:
 
 ## Some of my projects
 
-<li> MRI Sequence (T1, T2, T1 C+) Classification w/Custom CNN  [<a href =""> GitHub</a>] [<a href =""> Kaggle</a>]  </li>
-
-
 
 ### 1. Machine Learning Projects
 <li> <a href ="https://github.com/john-fante/my-machine-learning-projects/tree/main/gamma-hadron-separation-xgb-lgbm-svm-main"> Gamma/Hadron Separation w/XGBoost, LightGBM, SVM</a> (ROC AUC Score: 0.89) </li>
@@ -42,7 +39,7 @@ Here are some ideas to get you started:
 
 
 ### 2. Deep Learning Projects
-#### 2.1 Classification
+ #### 2.1 Classification
 <li> <a href ="https://github.com/john-fante/my-deep-learning-projects/tree/main/classification/30-plants-classification-main"> 30 Plants Detection w/Custom ConvMixer based CNN </a>  (F1 Score: 0.77) </li>
 <li> <a href ="https://github.com/john-fante/my-deep-learning-projects/tree/main/classification/bladder-tissue-classification-main"> Bladder Tissue Classification w/ViT </a>  (F1 Score: 0.82) </li>
 
