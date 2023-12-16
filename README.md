@@ -86,20 +86,33 @@ Here are some ideas to get you started:
 
 <li> <a href ="https://github.com/john-fante/my-deep-learning-projects/tree/main/segmentation-projects/eye-conjunctiva-segmentation-main"> Eye Conjunctiva Segmentation with U-Net using TPU </a>  (Dice : 0.91, Jaccard : 0.82) </li>
 
+<li> <a href ="https://github.com/john-fante/my-deep-learning-projects/tree/main/segmentation-projects/iris-segmentation-unet-main"> Iris Segmentation U-net w/TPU </a> (Dice : 0.94, Jaccard : 0.88) </li>
+
+<li> <a href ="https://github.com/john-fante/my-deep-learning-projects/tree/main/segmentation-projects/particle-segmentation-deeplabv3--main"> Particle Segmentation Custom DeepLabv3+ </a> (Dice : 0.93, Jaccard : 0.88) </li>
+
+<li> <a href ="https://github.com/john-fante/my-deep-learning-projects/tree/main/segmentation-projects/retina-vessel-segmentation-main">Retina Vessel Segmentation U-net w/TPU </a> (Dice : 0.75) </li>
+
+<li> <a href ="https://github.com/john-fante/my-deep-learning-projects/tree/main/segmentation-projects/segment-medical-instrument-main"> Segmentation Medical Instrument w/Custom DeepLabv3+ </a> (Dice : 0.86) </li>
+
+<li> <a href ="https://github.com/john-fante/my-deep-learning-projects/tree/main/segmentation-projects/tomato-segmentation-detectron2-main"> Tomato Segmentation w/detectron2 </a> (mask AP: 61.94) </li>
+
+#### 2.3 Object Detection
+
+<li> <a href ="https://github.com/john-fante/my-deep-learning-projects/tree/main/object-detection/damaged-lamp-detection-main"> Damaged Lamp Detection w/detectron2 (Faster R-CNN) </a></li>
+
+<li> <a href ="https://github.com/john-fante/my-deep-learning-projects/tree/main/object-detection/plate-detection-main"> Plate Detection w/detectron2 </a> (mAP@75: 89.19) </li>
+
+<li> <a href ="https://github.com/john-fante/my-deep-learning-projects/tree/main/object-detection/tomato-detection-detectron2-main"> Tomato Detection w/detectron2 </a> (mAP@50: 82.02) </li>
 
 
 
-<li> <a href ="https://github.com/john-fante/ford-motor-data-anomaly-detection-w-aes">Ford Motor Data Anomaly Detection w/AutoEncoder </a>  (Test ACC: 66.14 %) </li>
 
-<li> <a href ="https://github.com/john-fante/particle-segmentation-deeplabv3-#particle-segmentation-custom-deeplabv3"> Particle Segmentation Custom DeepLabv3+ </a> (Dice : 0.93, Jaccard : 0.88) </li>
+#### 2.4 Anomaly Detection
 
-<li> <a href ="https://github.com/john-fante/iris-segmentation-unet"> Iris Segmentation U-net w/TPU </a> (Dice : 0.94, Jaccard : 0.88) </li>
+<li> <a href ="https://github.com/john-fante/my-deep-learning-projects/tree/main/anomaly-detection/ford-motor-data-anomaly-detection-w-aes-main">Ford Motor Data Anomaly Detection w/AutoEncoder </a>  (Test ACC: 66.14 %) </li>
 
-<li> <a href ="https://github.com/john-fante/retina-vessel-segmentation">Retina Vessel Segmentation U-net w/TPU </a> (Dice : 0.75) </li>
-<li> <a href ="https://github.com/john-fante/damaged-lamp-detection"> Damaged Lamp Detection w/detectron2 (Faster R-CNN) </a></li>
-<li> <a href ="https://github.com/john-fante/plate-detection"> Plate Detection w/detectron2 </a> (mAP@75: 89.19) </li>
-<li> <a href ="https://github.com/john-fante/segment-medical-instrument"> Segmentation Medical Instrument w/Custom DeepLabv3+
- </a> (Dice : 0.86) </li>
+
+
 
 
 
