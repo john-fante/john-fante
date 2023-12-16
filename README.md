@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 <li> <a href ="https://github.com/john-fante/my-machine-learning-projects/tree/main/rain-prediction-main">Rain Prediction w/CatBoost and Conformal Prediction </a>  F1-Score:0.84 </li>
 
-
+<hr>
 <br>
 
 
@@ -116,7 +116,6 @@ Here are some ideas to get you started:
 
 <hr>
 
-
 <br>
 
 
@@ -126,13 +125,14 @@ Here are some ideas to get you started:
 
 ### Hybrid Model (Deep Learning and Machine Learning) Projects
 
-<li> <a href ="https://github.com/john-fante/CHEMBL286-classification-ensemble-model"> (QSAR) Renin Activity (ChEMBL286) Classification w/Ensemble Model(CNN + CatBoost) </a>  (F1-Score: 0.84) </li>
+<li> <a href ="https://github.com/john-fante/my-hybrid-model-projects/tree/main/CHEMBL286-classification-ensemble-model-main"> (QSAR) Renin Activity (ChEMBL286) Classification w/Ensemble Model(CNN + CatBoost) </a>  (F1-Score: 0.84) </li>
 
-<li> <a href ="https://github.com/john-fante/leaf-disease-detection-meta-learning"> Leaf Disease Detection w/Meta-Learning (ViT, PCA, SVM) </a>(F1 Score: 0.92) </li>
-<li> <a href ="https://github.com/john-fante/flower-detection-meta-learning"> Flower Detection w/Meta Learning(ViT, CatBoost, SHAP) </a>(F1 Score: 0.96) </li>
-<li> <a href ="https://github.com/john-fante/skin-cancer-detect-meta-learning"> Skin Cancer Detection w/Meta Learning (ConvMixer, CatBoost, SHAP) </a> </li>
+<li> <a href ="https://github.com/john-fante/my-hybrid-model-projects/tree/main/leaf-disease-detection-meta-learning-main"> Leaf Disease Detection w/Meta-Learning (ViT, PCA, SVM) </a>(F1 Score: 0.92) </li>
+<li> <a href ="https://github.com/john-fante/my-hybrid-model-projects/tree/main/flower-detection-meta-learning-main"> Flower Detection w/Meta Learning(ViT, CatBoost, SHAP) </a>(F1 Score: 0.96) </li>
+<li> <a href ="https://github.com/john-fante/my-hybrid-model-projects/tree/main/skin-cancer-detect-meta-learning-main"> Skin Cancer Detection w/Meta Learning (ConvMixer, CatBoost, SHAP) </a> </li>
 
 
+<hr>
 <br>
 
 
@@ -143,6 +143,8 @@ Here are some ideas to get you started:
 <li> <a href ="https://github.com/john-fante/hassanat-distance-implementation-knn"> Minkowski vs Hassanat Distance Metric Implementation w/KNN </a> </li>
 <li> <a href ="https://github.com/john-fante/entropy-experiments-on-gaussian-dist"> Proof of the Entropy of The Gaussian Distribution Implementation </a> </li>
 
+
+<hr>
 <br>
 
 
@@ -150,6 +152,7 @@ Here are some ideas to get you started:
 ### Algorithmic Trading
 <li> <a href ="https://github.com/john-fante/Getting-Binance-current-coins-prices-volumes"> Getting Binance Current Coins Prices Volumes </a> </li>
 
+<hr>
 <br>
 
 
