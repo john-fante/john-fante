@@ -17,6 +17,10 @@ Here are some ideas to get you started:
 
 ## Some of my projects
 
+<li> MRI Sequence (T1, T2, T1 C+) Classification w/Custom CNN  [<a href =""> GitHub</a>] [<a href =""> Kaggle</a>]  </li>
+
+
+
 ### 1. Machine Learning Projects
 <li> <a href ="https://github.com/john-fante/my-machine-learning-projects/tree/main/gamma-hadron-separation-xgb-lgbm-svm-main"> Gamma/Hadron Separation w/XGBoost, LightGBM, SVM</a> (ROC AUC Score: 0.89) </li>
 <li> <a href ="https://github.com/john-fante/my-machine-learning-projects/tree/main/svm-xgboost-lightgbm-ensemble-method-w-noised-dataset-main">Bears vs Pandas SVM, XGB, LGBM, Ensemble Method w/Noised-Dataset </a>  (ACC: 96.75 %) </li>
@@ -44,14 +48,17 @@ Here are some ideas to get you started:
 
 <li> <a href ="https://github.com/john-fante/my-deep-learning-projects/tree/main/classification/blood-cell-classification-covmixer-main"> Blood Cells Classification w/Custom ConvMixer based CNN </a>  (F1 Score: 0.98) </li>
 
-<li> <a href ="https://github.com/john-fante/my-deep-learning-projects/tree/main/classification/brain-tumor-mri-classification-main"> MRI Sequence (T1, T2, T1 C+) Classification w/Custom CNN </a></li>
+
+<li> <a href ="https://github.com/john-fante/my-deep-learning-projects/tree/main/classification/brain-tumor-mri-classification-main"> Brain Tumor Classification (Normal, Glioma, Meningioma, Pituitary) </a>(Test ACC: 86.27 %) </li>
+
+
+<li> <a href =""> MRI Sequence (T1, T2, T1 C+) Classification w/Custom CNN </a></li>
 
 
 
 
 
 <li> <a href ="https://github.com/john-fante/normal_heartbeat_vs_myocardial_infarction_classification"> Normal heartbeat/Myocardial Infarction Classification </a>(ROC AUC Score: 0.842) </li>
-<li> <a href ="https://github.com/john-fante/brain-tumor-mri-classification"> Brain Tumor Classification (Normal, Glioma, Meningioma, Pituitary) </a>(Test ACC: 86.27 %) </li>
 
 <li> <a href ="https://github.com/john-fante/earthquake_events_classification"> Earthquake Events Classification (Mojor Event/Non-Major Event) </a>(Test ACC: 64 %) </li>
 <li> <a href ="https://github.com/john-fante/ford-motor-data-anomaly-detection-w-aes">Ford Motor Data Anomaly Detection w/AutoEncoder </a>  (Test ACC: 66.14 %) </li>
