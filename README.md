@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 ## Some of my projects
 
 ### Machine Learning
-<li> <a href ="https://github.com/john-fante/gamma-hadron-separation-xgb-lgbm-svm"> Gamma/Hadron Separation w/XGBoost, LightGBM, SVM</a> (ROC AUC Score: 0.89) </li>
-<li> <a href ="https://github.com/john-fante/svm-xgboost-lightgbm-ensemble-method-w-noised-dataset">Bears vs Pandas SVM, XGB, LGBM, Ensemble Method w/Noised-Dataset </a>  (ACC: 96.75 %) </li>
+<li> <a href ="https://github.com/john-fante/my-machine-learning-projects/tree/main/gamma-hadron-separation-xgb-lgbm-svm-main"> Gamma/Hadron Separation w/XGBoost, LightGBM, SVM</a> (ROC AUC Score: 0.89) </li>
+<li> <a href ="https://github.com/john-fante/my-machine-learning-projects/tree/main/svm-xgboost-lightgbm-ensemble-method-w-noised-dataset-main">Bears vs Pandas SVM, XGB, LGBM, Ensemble Method w/Noised-Dataset </a>  (ACC: 96.75 %) </li>
 <li> <a href ="https://github.com/john-fante/water-quality-classification-with-CatBoost"> Groundwater Quality Classification w/CatBoost </a> </li>
 
 <li> <a href ="https://github.com/john-fante/prediction-biological-activity-catboost"> (QSAR) Prediction Biological Activity w/CatBoost Implementation </a>  (MCC: 0.825) </li>
