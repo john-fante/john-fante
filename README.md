@@ -39,6 +39,15 @@ Here are some ideas to get you started:
 
 ### 2. Deep Learning Projects
 #### 2.1 Classification
+<li> <a href ="https://github.com/john-fante/my-deep-learning-projects/tree/main/classification/30-plants-classification-main"> 30 Plants Detection w/Custom ConvMixer based CNN </a>  (F1 Score: 0.77) </li>
+<li> <a href ="https://github.com/john-fante/my-deep-learning-projects/tree/main/classification/bladder-tissue-classification-main"> Bladder Tissue Classification w/ViT </a>  (F1 Score: 0.82) </li>
+
+<li> <a href ="https://github.com/john-fante/my-deep-learning-projects/tree/main/classification/blood-cell-classification-covmixer-main"> Blood Cells Classification w/Custom ConvMixer based CNN </a>  (F1 Score: 0.98) </li>
+
+<li> <a href ="https://github.com/john-fante/my-deep-learning-projects/tree/main/classification/brain-tumor-mri-classification-main"> MRI Sequence (T1, T2, T1 C+) Classification w/Custom CNN </a></li>
+
+
+
 
 
 <li> <a href ="https://github.com/john-fante/normal_heartbeat_vs_myocardial_infarction_classification"> Normal heartbeat/Myocardial Infarction Classification </a>(ROC AUC Score: 0.842) </li>
@@ -65,18 +74,18 @@ Here are some ideas to get you started:
 <li> <a href ="https://github.com/john-fante/crack-segmentation">Asphalt Pavement Crack Segmentation U-Net </a> </li>
 <li> <a href ="https://github.com/john-fante/damaged-lamp-detection"> Damaged Lamp Detection w/detectron2 (Faster R-CNN) </a></li>
 <li> <a href ="https://github.com/john-fante/plate-detection"> Plate Detection w/detectron2 </a> (mAP@75: 89.19) </li>
-<li> <a href ="https://github.com/john-fante/mri-sequence-classification"> MRI Sequence (T1, T2, T1 C+) Classification w/Custom CNN </a></li>
 <li> <a href ="https://github.com/john-fante/dental-xrays-classification"> Dental X-Rays Classification w/TPU </a>  (F1 Score: 0.72) </li>
 <li> <a href ="https://github.com/john-fante/segment-medical-instrument"> Segmentation Medical Instrument w/Custom DeepLabv3+
  </a> (Dice : 0.86) </li>
-<li> <a href ="https://github.com/john-fante/blood-cell-classification-covmixer"> Blood Cells Classification w/Custom ConvMixer based CNN </a>  (F1 Score: 0.98) </li>
 
-<li> <a href ="https://github.com/john-fante/30-plants-classification"> 30 Plants Detection w/Custom ConvMixer based CNN </a>  (F1 Score: 0.77) </li>
-<li> <a href ="https://github.com/john-fante/bladder-tissue-classification"> Bladder Tissue Classification w/ViT </a>  (F1 Score: 0.82) </li>
 
 
 
 <br>
+
+
+
+
 
 
 ### Hybrid Model (Deep Learning and Machine Learning) Projects
