@@ -40,8 +40,8 @@ Here are some ideas to get you started:
 
 ### 2. Deep Learning Projects
 #### 2.1 Classification
-<li> <a href =""> 30 Plants Detection w/Custom ConvMixer based CNN </a>  (F1 Score: 0.77) </li>
-<li> <a href =""> Bladder Tissue Classification w/ViT </a>  (F1 Score: 0.82) </li>
+<li> <a href ="https://github.com/john-fante/my-deep-learning-projects/tree/main/classification/30-plants-classification-main"> 30 Plants Detection w/Custom ConvMixer based CNN </a>  (F1 Score: 0.77) </li>
+<li> <a href ="https://github.com/john-fante/my-deep-learning-projects/tree/main/classification/bladder-tissue-classification-main"> Bladder Tissue Classification w/ViT </a>  (F1 Score: 0.82) </li>
 
 <li> <a href ="https://github.com/john-fante/my-deep-learning-projects/tree/main/classification/blood-cell-classification-covmixer-main"> Blood Cells Classification w/Custom ConvMixer based CNN </a>  (F1 Score: 0.98) </li>
 
