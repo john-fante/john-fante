@@ -130,7 +130,7 @@ Here are some ideas to get you started:
 
 
 
-### Hybrid Model (Deep Learning and Machine Learning) Projects
+### 3. Hybrid Model (Deep Learning and Machine Learning) Projects
 
 <li> <a href ="https://github.com/john-fante/my-hybrid-model-projects/tree/main/CHEMBL286-classification-ensemble-model-main"> (QSAR) Renin Activity (ChEMBL286) Classification w/Ensemble Model(CNN + CatBoost) </a>  (F1-Score: 0.84) </li>
 
@@ -144,8 +144,18 @@ Here are some ideas to get you started:
 <hr>
 <br>
 
+### 4. Hybrid Model (Deep Learning and Machine Learning) Projects
 
-### Machine Learning Theory
+<li> <a href ="https://github.com/john-fante/my-incremental-learning-projects/tree/main/cryptocurrency-price-prediction-incremental-learning-main"> Cryptocurrency (AVAX) price prediction with Incremental/Online Learning </a> </li>
+
+<li> <a href ="https://github.com/john-fante/my-incremental-learning-projects/tree/main/smoking-detection-incremental-online-learning"> Smoking Image Detection w/Online Learning (River) </a>  (F1 Score: 0.95) </li>
+
+
+<hr>
+<br>
+
+
+### 5. Machine Learning Theory
 
 <li> <a href ="https://github.com/john-fante/my-machine-learning-theory-implementation/tree/main/simple-new-sample-generation-from-mnist-w-kde-main"> Simple New Sample Generation from MNIST w/KDE</a> </li>
 <li> <a href ="https://github.com/john-fante/my-machine-learning-theory-implementation/tree/main/simple-new-sample-generation-fashionmnist-w-kde-main"> Simple New Sample Generation FashionMNIST w/KDE</a> </li>
@@ -159,7 +169,7 @@ Here are some ideas to get you started:
 
 
 
-### Algorithmic Trading
+### 6. Algorithmic Trading
 <li> <a href ="https://github.com/john-fante/Getting-Binance-current-coins-prices-volumes"> Getting Binance Current Coins Prices Volumes </a> </li>
 
 <hr>
