@@ -76,6 +76,12 @@ Here are some ideas to get you started:
 
 <li> <a href ="https://github.com/john-fante/my-deep-learning-projects/tree/main/classification/zipper-defect-classification-main"> Zipper Defect Classification </a> (AUC Score: 0.98) </li>
 
+<li> <a href ="https://github.com/john-fante/my-deep-learning-projects/tree/main/classification/glaucoma-classification-vit"> Glaucoma Classification w/ViT </a> (F1 Score: 0.91) </li>
+
+<li> <a href ="https://github.com/john-fante/my-deep-learning-projects/tree/main/classification/chest-xray-classification-vit"> Chest X-Ray Classification w/ViT </a> (F1 Score: 0.9) </li>
+
+<li> <a href ="https://github.com/john-fante/my-deep-learning-projects/tree/main/classification/document-classification-vit"> Document Classification w/ViT  </a> </li>
+
 
 #### 2.2 Segmentation
 
@@ -99,10 +105,11 @@ Here are some ideas to get you started:
 #### 2.3 Object Detection
 
 <li> <a href ="https://github.com/john-fante/my-deep-learning-projects/tree/main/object-detection/damaged-lamp-detection-main"> Damaged Lamp Detection w/detectron2 (Faster R-CNN) </a></li>
-
 <li> <a href ="https://github.com/john-fante/my-deep-learning-projects/tree/main/object-detection/plate-detection-main"> Plate Detection w/detectron2 </a> (mAP@75: 89.19) </li>
-
 <li> <a href ="https://github.com/john-fante/my-deep-learning-projects/tree/main/object-detection/tomato-detection-detectron2-main"> Tomato Detection w/detectron2 </a> (mAP@50: 82.02) </li>
+<li> <a href ="https://github.com/john-fante/my-deep-learning-projects/tree/main/object-detection/tiny-vehicle-detection-detectron2"> Tiny Vehicle Detection w/detectron2 </a> (mAP@50: 32.08) </li>
+<li> <a href ="https://github.com/john-fante/my-deep-learning-projects/tree/main/object-detection/traffic-signs-detect-detectron2"> Traffic Signs Detect w/detectron2 </a> (mAP@50: 71.62) </li>
+<li> <a href ="https://github.com/john-fante/my-deep-learning-projects/tree/main/object-detection/road-mark-detection-detectron2"> Road Mark Detection (ResNet-50, ResNeXt 101 FPNs) </a> </li>
 
 
 
@@ -130,6 +137,8 @@ Here are some ideas to get you started:
 <li> <a href ="https://github.com/john-fante/my-hybrid-model-projects/tree/main/leaf-disease-detection-meta-learning-main"> Leaf Disease Detection w/Meta-Learning (ViT, PCA, SVM) </a>(F1 Score: 0.92) </li>
 <li> <a href ="https://github.com/john-fante/my-hybrid-model-projects/tree/main/flower-detection-meta-learning-main"> Flower Detection w/Meta Learning(ViT, CatBoost, SHAP) </a>(F1 Score: 0.96) </li>
 <li> <a href ="https://github.com/john-fante/my-hybrid-model-projects/tree/main/skin-cancer-detect-meta-learning-main"> Skin Cancer Detection w/Meta Learning (ConvMixer, CatBoost, SHAP) </a> </li>
+<li> <a href ="https://github.com/john-fante/my-hybrid-model-projects/tree/main/smoking-detection-hybrid-model-vit-xgboost"> Smoking Detection w/Hybrid Model (ViT, XGBoost, SHAP) </a>(F1 Score: 0.96) </li>
+<li> <a href ="https://github.com/john-fante/my-hybrid-model-projects/tree/main/disease-severity-hybrid-classifier-vit-catboost"> Disease Severity Hybrid Classifier (ViT,CatBoost) </a>(F1 Score: 0.75) </li>
 
 
 <hr>
