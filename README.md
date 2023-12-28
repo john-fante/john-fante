@@ -81,6 +81,9 @@ Here are some ideas to get you started:
 <li> <a href ="https://github.com/john-fante/my-deep-learning-projects/tree/main/classification/chest-xray-classification-vit"> Chest X-Ray Classification w/ViT </a> (F1 Score: 0.9) </li>
 
 <li> <a href ="https://github.com/john-fante/my-deep-learning-projects/tree/main/classification/document-classification-vit"> Document Classification w/ViT  </a> </li>
+<li> <a href ="https://github.com/john-fante/my-deep-learning-projects/tree/main/classification/polish-bird-sounds%20classification"> (76 GB) 160 Polish Bird Sounds Classification </a> </li>
+<li> <a href ="https://github.com/john-fante/my-deep-learning-projects/tree/main/classification/rice-classification-custom-resnet50"> Rice Classification w/Custom ResNet50 </a> (ACC 85%) </li>
+
 
 
 #### 2.2 Segmentation
@@ -97,10 +100,13 @@ Here are some ideas to get you started:
 <li> <a href ="https://github.com/john-fante/my-deep-learning-projects/tree/main/segmentation-projects/particle-segmentation-deeplabv3--main"> Particle Segmentation Custom DeepLabv3+ </a> (Dice : 0.93, Jaccard : 0.88) </li>
 
 <li> <a href ="https://github.com/john-fante/my-deep-learning-projects/tree/main/segmentation-projects/retina-vessel-segmentation-main">Retina Vessel Segmentation U-net w/TPU </a> (Dice : 0.75) </li>
+<li> <a href ="https://github.com/john-fante/my-deep-learning-projects/tree/main/segmentation-projects/lung-segmentation-unet-separableconv">Lung Segmentation UNet w/SeparableConv </a> (Dice : 0.93) </li>
+
 
 <li> <a href ="https://github.com/john-fante/my-deep-learning-projects/tree/main/segmentation-projects/segment-medical-instrument-main"> Segmentation Medical Instrument w/Custom DeepLabv3+ </a> (Dice : 0.86) </li>
 
 <li> <a href ="https://github.com/john-fante/my-deep-learning-projects/tree/main/segmentation-projects/tomato-segmentation-detectron2-main"> Tomato Segmentation w/detectron2 </a> (mask AP: 61.94) </li>
+
 
 #### 2.3 Object Detection
 
@@ -134,17 +140,19 @@ Here are some ideas to get you started:
 
 <li> <a href ="https://github.com/john-fante/my-hybrid-model-projects/tree/main/CHEMBL286-classification-ensemble-model-main"> (QSAR) Renin Activity (ChEMBL286) Classification w/Ensemble Model(CNN + CatBoost) </a>  (F1-Score: 0.84) </li>
 
-<li> <a href ="https://github.com/john-fante/my-hybrid-model-projects/tree/main/leaf-disease-detection-meta-learning-main"> Leaf Disease Detection w/Meta-Learning (ViT, PCA, SVM) </a>(F1 Score: 0.92) </li>
-<li> <a href ="https://github.com/john-fante/my-hybrid-model-projects/tree/main/flower-detection-meta-learning-main"> Flower Detection w/Meta Learning(ViT, CatBoost, SHAP) </a>(F1 Score: 0.96) </li>
-<li> <a href ="https://github.com/john-fante/my-hybrid-model-projects/tree/main/skin-cancer-detect-meta-learning-main"> Skin Cancer Detection w/Meta Learning (ConvMixer, CatBoost, SHAP) </a> </li>
+<li> <a href ="https://github.com/john-fante/my-hybrid-model-projects/tree/main/leaf-disease-detection-meta-learning-main"> Leaf Disease Detection w/Hybrid Model (ViT, PCA, SVM) </a>(F1 Score: 0.92) </li>
+<li> <a href ="https://github.com/john-fante/my-hybrid-model-projects/tree/main/flower-detection-meta-learning-main"> Flower Detection w/Hybrid Model (ViT, CatBoost, SHAP) </a>(F1 Score: 0.96) </li>
+<li> <a href ="https://github.com/john-fante/my-hybrid-model-projects/tree/main/skin-cancer-detect-meta-learning-main"> Skin Cancer Detection w/Hybrid Model (ConvMixer, CatBoost, SHAP) </a> </li>
 <li> <a href ="https://github.com/john-fante/my-hybrid-model-projects/tree/main/smoking-detection-hybrid-model-vit-xgboost"> Smoking Detection w/Hybrid Model (ViT, XGBoost, SHAP) </a>(F1 Score: 0.96) </li>
 <li> <a href ="https://github.com/john-fante/my-hybrid-model-projects/tree/main/disease-severity-hybrid-classifier-vit-catboost"> Disease Severity Hybrid Classifier (ViT,CatBoost) </a>(F1 Score: 0.75) </li>
+<li> <a href ="https://github.com/john-fante/my-hybrid-model-projects/tree/main/diamond-detection-hybrid-classifier-vit-catboost"> Diamond Detect w/Hybrid Model (ViT,CatBoost,SHAP) </a>(F1 Score: 0.97) </li>
+<li> <a href ="https://github.com/john-fante/my-hybrid-model-projects/tree/main/mammals-classification-ensemble-dl"> Mammals Classification w/Ensemble Deep Learning </a>(F1 Score: 0.92) </li>
 
 
 <hr>
 <br>
 
-### 4. Hybrid Model (Deep Learning and Machine Learning) Projects
+### 4. Online/Incremental Learning Projects
 
 <li> <a href ="https://github.com/john-fante/my-incremental-learning-projects/tree/main/cryptocurrency-price-prediction-incremental-learning-main"> Cryptocurrency (AVAX) price prediction with Incremental/Online Learning </a> </li>
 
