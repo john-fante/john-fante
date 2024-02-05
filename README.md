@@ -138,6 +138,9 @@ Here are some ideas to get you started:
 <li> <a href ="https://github.com/john-fante/my-deep-learning-projects/tree/main/other-dl-projects/cloud-classification-involution-neural-network"> Cloud Classification (Involution Neural Network) </a> </li>
 
 
+<li> <a href ="https://github.com/john-fante/my-deep-learning-projects/tree/main/other-dl-projects/car-detection-deep-multiple-instance-learning"> Car Detect w/Deep Multiple Instance Learning  </a> </li>
+
+
 
 
 
