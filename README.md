@@ -108,6 +108,8 @@ Here are some ideas to get you started:
 
 <li> <a href ="https://github.com/john-fante/my-deep-learning-projects/tree/main/segmentation-projects/tomato-segmentation-detectron2-main"> Tomato Segmentation w/detectron2 </a> (mask AP: 61.94) </li>
 
+<li> <a href ="https://github.com/john-fante/my-deep-learning-projects/tree/main/segmentation-projects/brain-tumor-segmentation-detectron2"> Brain Tumor Segmentation w/detectron2 </a> (mAP@50:76.2) </li>
+
 
 #### 2.3 Object Detection
 
@@ -120,6 +122,7 @@ Here are some ideas to get you started:
 
 <li> <a href ="https://github.com/john-fante/my-deep-learning-projects/tree/main/object-detection/bone-fracture-detection-detectron2"> Bone Fracture Detection (ResNet-50, ResNeXt 101 FPNs) </a> </li>
 
+<li> <a href ="https://github.com/john-fante/my-deep-learning-projects/tree/main/object-detection/sign-detection-yolov8"> Sign Detection w/Keras YOLO V8 </a> </li>
 
 
 
