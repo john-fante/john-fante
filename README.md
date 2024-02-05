@@ -121,13 +121,16 @@ Here are some ideas to get you started:
 <li> <a href ="https://github.com/john-fante/my-deep-learning-projects/tree/main/object-detection/tomato-detection-detectron2-main"> Tomato Detection w/detectron2 </a> (mAP@50: 82.02) </li>
 <li> <a href ="https://github.com/john-fante/my-deep-learning-projects/tree/main/object-detection/tiny-vehicle-detection-detectron2"> Tiny Vehicle Detection w/detectron2 </a> (mAP@50: 32.08) </li>
 <li> <a href ="https://github.com/john-fante/my-deep-learning-projects/tree/main/object-detection/traffic-signs-detect-detectron2"> Traffic Signs Detect w/detectron2 </a> (mAP@50: 71.62) </li>
+
+<li> <a href ="https://github.com/john-fante/my-deep-learning-projects/tree/main/object-detection/sign-detection-yolov8"> Sign Detection w/Keras YOLO V8 </a> </li>
+
 <li> <a href ="https://github.com/john-fante/my-deep-learning-projects/tree/main/object-detection/road-mark-detection-detectron2"> Road Mark Detection (ResNet-50, ResNeXt 101 FPNs) </a> </li>
 
 <li> <a href ="https://github.com/john-fante/my-deep-learning-projects/tree/main/object-detection/bone-fracture-detection-detectron2"> Bone Fracture Detection (ResNet-50, ResNeXt 101 FPNs) </a> </li>
 
-<li> <a href ="https://github.com/john-fante/my-deep-learning-projects/tree/main/object-detection/sign-detection-yolov8"> Sign Detection w/Keras YOLO V8 </a> </li>
-
 <li> <a href ="https://github.com/john-fante/my-deep-learning-projects/tree/main/object-detection/acne-detection-w-keras-yolo-v8"> Acne Detection w/Keras YOLO V8 </a> </li>
+
+<li> <a href ="https://github.com/john-fante/my-deep-learning-projects/tree/main/object-detection/brain-tumor-detection-w-keras-yolo-v8"> Brain Tumor Detection w/Keras YOLO V8 </a> </li>
 
 
 
