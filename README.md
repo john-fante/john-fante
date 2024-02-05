@@ -129,9 +129,13 @@ Here are some ideas to get you started:
 
 
 
-#### 2.4 Anomaly Detection
+#### 2.4 Other Projects (Anomaly Detection, Multiple Instance Learning etc.)
+
 
 <li> <a href ="https://github.com/john-fante/my-deep-learning-projects/tree/main/anomaly-detection/ford-motor-data-anomaly-detection-w-aes-main">Ford Motor Data Anomaly Detection w/AutoEncoder </a>  (Test ACC: 66.14 %) </li>
+
+
+
 
 
 
