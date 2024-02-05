@@ -113,6 +113,9 @@ Here are some ideas to get you started:
 
 <li> <a href ="https://github.com/john-fante/my-deep-learning-projects/tree/main/segmentation-projects/brain-tumor-segmentation-detectron2"> Brain Tumor Segmentation w/detectron2 </a> (mAP@50:76.2) </li>
 
+<li> <a href ="https://github.com/john-fante/my-deep-learning-projects/tree/main/segmentation-projects/road-segmentation-w-deeplabv3-from-scratch"> Road Segmentation w/DeepLabv3+ from Scratch </a> </li>
+
+
 
 #### 2.3 Object Detection
 
