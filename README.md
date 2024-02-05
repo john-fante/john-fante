@@ -129,11 +129,13 @@ Here are some ideas to get you started:
 
 
 
-#### 2.4 Other Deep Learning Projects (Anomaly Detection, Multiple Instance Learning etc.)
-
+#### 2.4 Other Deep Learning Projects (Anomaly Detection, Image Captioning, Multiple Instance Learning etc.)
 
 <li> <a href ="https://github.com/john-fante/my-deep-learning-projects/tree/main/other-dl-projects/satellite-image-captioning-vit-bi-lstms"> Satellite Image Captioning (ViT, Bi-LSTMs)</a> </li>
 
+<li> <a href ="https://github.com/john-fante/my-deep-learning-projects/tree/main/other-dl-projects/molecule-activity-deep-multiple-instance-learning"> Molecule Activity, Deep Multiple Instance Learning </a> </li>
+
+<li> <a href ="https://github.com/john-fante/my-deep-learning-projects/tree/main/other-dl-projects/cloud-classification-involution-neural-network"> Cloud Classification (Involution Neural Network) </a> </li>
 
 
 
