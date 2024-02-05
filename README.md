@@ -127,6 +127,9 @@ Here are some ideas to get you started:
 
 <li> <a href ="https://github.com/john-fante/my-deep-learning-projects/tree/main/object-detection/sign-detection-yolov8"> Sign Detection w/Keras YOLO V8 </a> </li>
 
+<li> <a href ="https://github.com/john-fante/my-deep-learning-projects/tree/main/object-detection/acne-detection-w-keras-yolo-v8"> Acne Detection w/Keras YOLO V8 </a> </li>
+
+
 
 
 #### 2.4 Other Deep Learning Projects (Anomaly Detection, Image Captioning, Multiple Instance Learning etc.)
