@@ -118,6 +118,8 @@ Here are some ideas to get you started:
 <li> <a href ="https://github.com/john-fante/my-deep-learning-projects/tree/main/object-detection/traffic-signs-detect-detectron2"> Traffic Signs Detect w/detectron2 </a> (mAP@50: 71.62) </li>
 <li> <a href ="https://github.com/john-fante/my-deep-learning-projects/tree/main/object-detection/road-mark-detection-detectron2"> Road Mark Detection (ResNet-50, ResNeXt 101 FPNs) </a> </li>
 
+<li> <a href ="https://github.com/john-fante/my-deep-learning-projects/tree/main/object-detection/bone-fracture-detection-detectron2"> Bone Fracture Detection (ResNet-50, ResNeXt 101 FPNs) </a> </li>
+
 
 
 
