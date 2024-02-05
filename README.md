@@ -115,6 +115,11 @@ Here are some ideas to get you started:
 
 <li> <a href ="https://github.com/john-fante/my-deep-learning-projects/tree/main/segmentation-projects/road-segmentation-w-deeplabv3-from-scratch"> Road Segmentation w/DeepLabv3+ from Scratch </a> </li>
 
+<li> <a href ="https://github.com/john-fante/my-deep-learning-projects/tree/main/segmentation-projects/segmenting-hutu-cells-deeplabv3"> Segmenting HuTu Cells DeepLabv3+  </a> (Test Dice: 0.93) </li>
+
+
+
+
 
 
 #### 2.3 Object Detection
