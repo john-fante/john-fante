@@ -2,7 +2,22 @@
 
 Hi, I am Ekin from Istanbul. I have been interested in image processing since 2020, and machine learning since 2021. It is my artificial intelligence portfolio. I generally use libraries like Tensorflow, scikit-learn, opencv, CatBoost etc.
 
-<i>Table of contents</i>
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue)
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
+
+<br>
+<b><i>Table of contents</i></b>
 
 <ul>
  <li> <a href ="https://github.com/john-fante#1-machine-learning-projects"> Machine Learning </a> (projects used scikit-learn, XGBoost, Catboost etc.) </li>
@@ -261,10 +276,6 @@ Here are some ideas to get you started:
 
 <br>
 
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
-
-![Keras](https://img.shields.io/badge/KERAS-100000?style=for-the-badge&logo=Keras&logoColor=000000&labelColor=FFC400&color=FFC400)
 
 
