@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+Hi, I am Ekin from Istanbul. I have been interested in image processing since 2020, and machine learning since 2021. It is my artificial intelligence portfolio. I generally use libraries like Tensorflow, scikit-learn, opencv, CatBoost etc.
+
+Table of contents
+
+
+
+
 <!--
 **john-fante/john-fante** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
