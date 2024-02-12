@@ -2,7 +2,7 @@
 
 Hi, I am Ekin from Istanbul. I have been interested in image processing since 2020, and machine learning since 2021. It is my artificial intelligence portfolio. I generally use libraries like Tensorflow, scikit-learn, opencv, CatBoost etc.
 
-Table of contents
+<i>Table of contents</i>
 
 <ul>
  <li> <a href ="https://github.com/john-fante#1-machine-learning-projects"> Machine Learning </a> (projects used scikit-learn, XGBoost, Catboost etc.) </li>
@@ -13,8 +13,9 @@ Table of contents
  <li> <a href ="https://github.com/john-fante#3-hybrid-model-deep-learning-and-machine-learning-projects"> Hybrid Models </a> (projects used a deep feature extractor and an ML classifier) </li>
  <li> <a href ="https://github.com/john-fante#4-onlineincremental-learning-projects"> Online/Incremental Learning </a> (projects used online learning methods and libraries like River) </li>
 <li> <a href ="https://github.com/john-fante#5-machine-learning-theory"> Theoretical Machine Learning </a> (some proofs of machine learning theory with python scripts) </li>
+<li> <a href ="https://github.com/john-fante/my-tensorflow-custom-callbacks"> Custom Tensorflow Callbacks </a> (for example, a callback creating a test set classification report during training) </li>
 
-<li> <a href ="https://github.com/john-fante/my-web-app-projects"> React Web App Projects </a> (my React, Vite and Tailwind CSS projects) </li>
+ <li> <a href ="https://github.com/john-fante/my-web-app-projects"> React Web App Projects </a> (my React, Vite and Tailwind CSS projects) </li>
 
 
 </ul>
