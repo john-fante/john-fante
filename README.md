@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hi, I am Ekin from Istanbul. I have been interested in image processing since 2020, and machine learning since 2021. It is my artificial intelligence portfolio. I generally use libraries like Tensorflow, scikit-learn, opencv, CatBoost etc.
+Hi, I am Ekin from Istanbul. I have been interested in image processing since 2020, and machine learning since 2021. It is my code portfolio. I generally use libraries like Tensorflow, scikit-learn, opencv, CatBoost etc. 
 
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
@@ -198,6 +198,8 @@ Here are some ideas to get you started:
 <li> <a href ="https://github.com/john-fante/my-deep-learning-projects/tree/main/other-dl-projects/cloud-classification-involution-neural-network"> Cloud Classification (Involution Neural Network) </a> </li>
 
 <li> <a href ="https://github.com/john-fante/my-deep-learning-projects/tree/main/other-dl-projects/car-detection-deep-multiple-instance-learning"> Car Detect w/Deep Multiple Instance Learning  </a> </li>
+
+<li> <a href ="https://github.com/john-fante/my-deep-learning-projects/tree/main/other-dl-projects/happy-detection-w-deep-multiple-instance-learning"> Happy Detection w/Deep Multiple Instance Learning </a> </li>
 
 
 
