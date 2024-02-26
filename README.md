@@ -24,7 +24,15 @@ Hi, I am Ekin from Istanbul. I have been interested in image processing since 20
  <li> <a href ="https://github.com/john-fante#21-classification"> Deep Learning Classification</a> (projects used Tensorflow with CNNs and ViTs models) </li>
  <li> <a href ="https://github.com/john-fante#22-segmentation"> Deep Learning Segmentation</a> (UNet, DeepLabv3+,detectron2 etc. models) </li>
  <li> <a href ="https://github.com/john-fante#23-object-detection"> Deep Learning Object Detection</a> (detectron2, YOLO etc. models) </li>
- <li> <a href ="https://github.com/john-fante#24-other-deep-learning-projects-anomaly-detection-image-captioning-multiple-instance-learning-etc"> Others DL project</a> (multiple instance learning, image captioning etc.) </li>
+ 
+ <li> <a href ="https://github.com/john-fante#23-object-detection"> Deep Learning Object Detection</a> (detectron2, YOLO etc. models) </li>
+
+
+
+ <li> <a href ="https://github.com/john-fante#24-natural-language-processing"> Natural Language Processing</a> (text classification, summarization, prompting etc.) </li>
+
+ 
+ <li> <a href ="https://github.com/john-fante#25-other-deep-learning-projects-anomaly-detection-image-captioning-multiple-instance-learning-etc"> Others DL project</a> (multiple instance learning, image captioning etc.) </li>
  <li> <a href ="https://github.com/john-fante#3-hybrid-model-deep-learning-and-machine-learning-projects"> Hybrid Models </a> (projects used a deep feature extractor and an ML classifier) </li>
  <li> <a href ="https://github.com/john-fante#4-onlineincremental-learning-projects"> Online/Incremental Learning </a> (projects used online learning methods and libraries like River) </li>
 <li> <a href ="https://github.com/john-fante#5-machine-learning-theory"> Theoretical Machine Learning </a> (some proofs of machine learning theory with python scripts) </li>
