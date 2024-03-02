@@ -25,10 +25,6 @@ Hi, I am Ekin from Istanbul. I have been interested in image processing since 20
  <li> <a href ="https://github.com/john-fante#22-segmentation"> Deep Learning Segmentation</a> (UNet, DeepLabv3+,detectron2 etc. models) </li>
  <li> <a href ="https://github.com/john-fante#23-object-detection"> Deep Learning Object Detection</a> (detectron2, YOLO etc. models) </li>
  
- <li> <a href ="https://github.com/john-fante#23-object-detection"> Deep Learning Object Detection</a> (detectron2, YOLO etc. models) </li>
-
-
-
  <li> <a href ="https://github.com/john-fante#24-natural-language-processing"> Natural Language Processing</a> (text classification, summarization, prompting etc.) </li>
 
  
