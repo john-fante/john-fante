@@ -294,6 +294,6 @@ Here are some ideas to get you started:
 <br>
 
 
-[](https://komarev.com/ghpvc/?username=john-fante)
+![](https://komarev.com/ghpvc/?username=john-fante&color=blue)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=john-fante&theme=transparent&border_radius=5&exclude_days=Fri%2CSat)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=john-fante&theme=transparent&border_radius=5)](https://git.io/streak-stats)
