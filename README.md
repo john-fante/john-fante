@@ -16,6 +16,11 @@ Hi, I am Ekin from Istanbul. I have been interested in image processing since 20
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 
+
+![](https://komarev.com/ghpvc/?username=john-fante&color=blue)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=john-fante&theme=transparent&border_radius=5)](https://git.io/streak-stats)
+
 <br>
 <b><i>Table of contents</i></b>
 
@@ -292,8 +297,3 @@ Here are some ideas to get you started:
 
 
 <br>
-
-
-![](https://komarev.com/ghpvc/?username=john-fante&color=blue)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=john-fante&theme=transparent&border_radius=5)](https://git.io/streak-stats)
