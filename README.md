@@ -19,8 +19,6 @@ Hi, I am Ekin from Istanbul. I have been interested in image processing since 20
 
 ![](https://komarev.com/ghpvc/?username=john-fante&color=blue)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=john-fante&theme=transparent&border_radius=5)](https://git.io/streak-stats)
-
 <br>
 <b><i>Table of contents</i></b>
 
@@ -47,7 +45,9 @@ Hi, I am Ekin from Istanbul. I have been interested in image processing since 20
 
 <br>
 
-<br>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=john-fante&theme=transparent&border_radius=5)](https://git.io/streak-stats)
+
+
 
 
 
