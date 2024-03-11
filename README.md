@@ -294,5 +294,7 @@ Here are some ideas to get you started:
 <br>
 
 
+https://komarev.com/ghpvc/?username=john-fante
 
+https://github-readme-streak-stats.herokuapp.com/?user=john-fante
 
