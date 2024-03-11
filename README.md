@@ -17,8 +17,6 @@ Hi, I am Ekin from Istanbul. I have been interested in image processing since 20
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 
 
-![](https://komarev.com/ghpvc/?username=john-fante&color=blue)
-
 <br>
 <b><i>Table of contents</i></b>
 
@@ -44,6 +42,8 @@ Hi, I am Ekin from Istanbul. I have been interested in image processing since 20
 
 
 <br>
+
+![](https://komarev.com/ghpvc/?username=john-fante&color=blue)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=john-fante&theme=transparent&border_radius=5)](https://git.io/streak-stats)
 
