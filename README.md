@@ -205,6 +205,8 @@ Here are some ideas to get you started:
 
 <li> <a href ="https://github.com/john-fante/my-deep-learning-projects/tree/main/nlp-projects/news-analysis-w-tensorflow-distilbert"> News Analysis w/Tensorflow (TFDistilBERT)  </a> (F1 Score: 0.89) </li>
 
+<li> <a href ="https://github.com/john-fante/my-deep-learning-projects/tree/main/nlp-projects/towards-data-science-articles-topic-modeling-w-lda"> Towards Data Science Articles Topic Modeling w/LDA </a> </li>
+
 
 
 
