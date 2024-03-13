@@ -262,6 +262,8 @@ Here are some ideas to get you started:
 
 <li> <a href ="https://github.com/john-fante/my-incremental-learning-projects/tree/main/turbine-power-output-forecasting-online-learning"> Turbine Power Output Forecasting w/Online Learning (River) </a> </li>
 
+<li> <a href ="https://github.com/john-fante/my-incremental-learning-projects/tree/main/tesla-stock-price-prediction-w-online-learning"> Tesla Stock Price Prediction w/Online Learning </a> </li>
+
 
 
 
