@@ -208,6 +208,9 @@ Here are some ideas to get you started:
 <li> <a href ="https://github.com/john-fante/my-deep-learning-projects/tree/main/nlp-projects/towards-data-science-articles-topic-modeling-w-lda"> Towards Data Science Articles Topic Modeling w/LDA </a> </li>
 
 
+<li> <a href ="https://github.com/john-fante/my-deep-learning-projects/tree/main/nlp-projects/emotion-classification-w-logisticregression"> Emotion Classification w/LogisticRegression </a> </li>
+
+
 
 
 #### 2.5 Other Deep Learning Projects (Anomaly Detection, Image Captioning, Multiple Instance Learning etc.)
