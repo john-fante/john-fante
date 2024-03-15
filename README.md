@@ -195,6 +195,8 @@ Here are some ideas to get you started:
 
 #### 2.4 Natural Language Processing
 
+
+
 <li> <a href ="https://github.com/john-fante/my-deep-learning-projects/tree/main/nlp-projects/gemma-2b-text-summarization-w-zero-shot-prompting"> Gemma 2B Text Summarization w/Zero-Shot Prompting </a> </li>
 
 <li> <a href ="https://github.com/john-fante/my-deep-learning-projects/tree/main/nlp-projects/rating-prediction-w-sentencetransformer-catboost"> Rating Prediction w/SentenceTransformer, CatBoost </a> (MAE: 0.381) </li>
@@ -203,12 +205,12 @@ Here are some ideas to get you started:
 
 <li> <a href ="https://github.com/john-fante/my-deep-learning-projects/tree/main/nlp-projects/complaint-analysis-w-ensemble-model-catboost-lr"> Complaint Analysis w/Ensemble Model (CatBoost, LR)  </a> (F1 Score: 0.86) </li>
 
-<li> <a href ="https://github.com/john-fante/my-deep-learning-projects/tree/main/nlp-projects/news-analysis-w-tensorflow-distilbert"> News Analysis w/Tensorflow (TFDistilBERT)  </a> (F1 Score: 0.89) </li>
-
-<li> <a href ="https://github.com/john-fante/my-deep-learning-projects/tree/main/nlp-projects/towards-data-science-articles-topic-modeling-w-lda"> Towards Data Science Articles Topic Modeling w/LDA </a> </li>
-
+<li> <a href ="https://github.com/john-fante/my-deep-learning-projects/tree/main/nlp-projects/news-analysis-w-tensorflow-distilbert"> News Analysis w/Tensorflow (DistilBERT fine-tuning) </a> (F1 Score: 0.89) </li>
 
 <li> <a href ="https://github.com/john-fante/my-deep-learning-projects/tree/main/nlp-projects/emotion-classification-w-logisticregression"> Emotion Classification w/LogisticRegression </a> </li>
+
+<li> <a href ="https://github.com/john-fante/my-deep-learning-projects/blob/main/nlp-projects/spam-mail-detection-w-tensorflow-distilbert"> Spam Mail Detection w/Tensorflow (DistilBERT fine-tuning) </a> (F1 Score: 0.92) </li>
+
 
 
 
