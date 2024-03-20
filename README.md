@@ -197,7 +197,7 @@ Here are some ideas to get you started:
 
 #### 2.4 Natural Language Processing
 
-
+<li> <a href ="https://github.com/john-fante/my-deep-learning-projects/tree/main/nlp-projects/news-zero-shot-topic-modelling-w-bertopic"> News Zero-Shot Topic Modelling w/BERTopic </a> </li>
 
 <li> <a href ="https://github.com/john-fante/my-deep-learning-projects/tree/main/nlp-projects/social-media-post-multiclass-classify-w-distilbert"> Social Media Post Multiclass Classification w/DistilBERT </a> </li>
 
