@@ -201,6 +201,8 @@ Here are some ideas to get you started:
 #### 2.4 Natural Language Processing
 
 
+<li> <a href ="https://github.com/john-fante/my-deep-learning-projects/tree/main/nlp-projects/manufacturing-question-answer-w-gemma-7b-lora">Manufacturing Question-Answer w/Gemma 7B (Fine-Tuning LoRA)</a> (Cosine Sim: 0.83) </li>
+
 <li> <a href ="https://github.com/john-fante/my-deep-learning-projects/tree/main/nlp-projects/graph-to-table-w-google-s-deplot">Graph to Table w/Google's DePlot Model</a> </li>
 
 <li> <a href ="https://github.com/john-fante/my-deep-learning-projects/tree/main/nlp-projects/disease-article-topic-modelling-w-bertopic"> Disease Article Topic Modelling w/BERTopic</a> </li>
