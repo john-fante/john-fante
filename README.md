@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-Hi, I am Ekin from Istanbul. I have been interested in image processing since 2020, and machine learning since 2021. It is my code portfolio. I generally use libraries like Tensorflow, scikit-learn, opencv, CatBoost etc. 
+Hi, I am Ekin from Istanbul. I am a Machine Learning Engineer. In general, my research topics are MLOps/AIOps and Evolutionary Algorithms (genetic algorithm, artificial bee colony algorithm etc.).
+
+I have been interested in image processing since 2020, and machine learning since 2021. It is my code portfolio. 
 
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
