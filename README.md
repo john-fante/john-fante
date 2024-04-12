@@ -201,6 +201,10 @@ Here are some ideas to get you started:
 
 #### 2.4 Natural Language Processing
 
+
+<li> <a href ="https://github.com/john-fante/my-deep-learning-projects/tree/main/nlp-projects/spam-vs-ham-message-classification-w-custom-fnet"> Depressive vs Non-depressive Tweet w/Custom FNet </a> (F1 Score: 0.88) </li>
+
+
 <li> <a href ="https://github.com/john-fante/my-deep-learning-projects/tree/main/nlp-projects/yelp-review-stars-prediction-w-gemma-7b-lora">Yelp Review Stars Prediction (Classification) w/Gemma 7B (LoRA) </a> </li>
 
 
