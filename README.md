@@ -31,8 +31,6 @@ I have been interested in image processing since 2020, and machine learning sinc
 <li> <a href ="https://github.com/john-fante#5-machine-learning-theory"> Theoretical Machine Learning </a> (some proofs of machine learning theory with python scripts) </li>
 <li> <a href ="https://github.com/john-fante/my-tensorflow-custom-callbacks"> Custom Tensorflow Callbacks </a> (for example, a callback creating a test set classification report during training) </li>
 
- <li> <a href ="https://github.com/john-fante/my-web-app-projects"> React Web App Projects </a> (my React, Vite and Tailwind CSS projects) </li>
-
 
 </ul>
 
