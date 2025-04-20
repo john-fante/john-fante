@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hi, I am Ekin from Istanbul. I am a <b>Machine Learning Engineer </b> (actually I have a bachelor's degree in Electronics and Communication Engineering). In general, my research topics are <b>MLOps/AIOps</b> and <b>Evolutionary Algorithms </b> (genetic algorithm, artificial bee colony algorithm etc.).
+Hi, I am Ekin from Istanbul. I am a <b>Machine Learning Engineer </b> (actually I have a bachelor's degree in Electronics and Communication Engineering). In general, my research topics are <b>MLOps/AIOps, Agentic AI</b> and <b>Evolutionary Algorithms </b>.
 
 I have been interested in image processing since 2020, and machine learning since 2021. It is my code portfolio. 
 
